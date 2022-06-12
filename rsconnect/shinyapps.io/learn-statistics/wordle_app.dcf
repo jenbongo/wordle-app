@@ -1,0 +1,13 @@
+name: wordle_app
+title: wordle_app
+username:
+account: learn-statistics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6444057
+bundleId: 6000821
+url: https://learn-statistics.shinyapps.io/wordle_app/
+when: 1655063866.88076
+lastSyncTime: 1655063866.88077
+asMultiple: FALSE
+asStatic: FALSE
